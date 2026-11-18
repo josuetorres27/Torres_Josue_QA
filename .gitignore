@@ -1,0 +1,21 @@
+# Entornos virtuales
+.venv*/
+venv/
+
+# Python
+__pycache__/
+*.py[cod]
+
+# pytest y cobertura
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Archivos de la entrega generados aparte
+*.zip
